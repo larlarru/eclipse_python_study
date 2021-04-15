@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	i'm forward<br>
+	<table border="1">
+		{% for row in rows %}
+			<tr><td>{{row[0]}}</td><td>{{row[1]}}</td><td>{{row[2]}}</td><td>{{row[3]}}</td></tr>
+		{% endfor %}
+	</table>
+	
+</body>
+</html>

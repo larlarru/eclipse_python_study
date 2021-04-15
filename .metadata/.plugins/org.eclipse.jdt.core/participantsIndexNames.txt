@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\workspace_python\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2009319810.index
+\WEB2\src
+C:\workspace_python\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\672566297.index
+\HELLOWEB2\src
+C:\workspace_python\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4165374371.index
+\HELLOWEB2\src

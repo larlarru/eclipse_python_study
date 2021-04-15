@@ -1,0 +1,33 @@
+i am info
+i am debug
+i am warning
+i am error
+i am fatal
+i am info
+i am debug
+i am warning
+i am error
+i am fatal
+2021-01-08 17:41:24,101 - my - DEBUG - i am debug
+2021-01-08 17:41:24,101 - my - INFO - i am info
+2021-01-08 17:41:24,102 - my - WARNING - i am warning
+2021-01-08 17:41:24,102 - my - ERROR - i am error
+2021-01-08 17:41:24,102 - my - CRITICAL - i am fatal
+2021-01-08 17:42:19,503 - my - DEBUG - i am debug
+2021-01-08 17:42:19,503 - my - INFO - i am info
+2021-01-08 17:42:19,503 - my - WARNING - i am warning
+2021-01-08 17:42:19,504 - my - ERROR - i am error
+2021-01-08 17:42:19,504 - my - CRITICAL - i am fatal
+2021-01-08 17:57:10,383 - my - DEBUG - db 진입
+2021-01-08 17:57:10,404 - my - DEBUG - db 실행
+2021-01-08 17:57:10,405 - my - DEBUG - db 실행 종료
+2021-01-08 17:57:10,405 - my - DEBUG - db 값 return
+2021-01-08 17:57:18,207 - my - DEBUG - db 진입
+2021-01-08 17:57:18,209 - my - DEBUG - db 실행
+2021-01-08 17:57:18,209 - my - DEBUG - db 실행 종료
+2021-01-08 17:57:18,209 - my - DEBUG - db 값 return
+2021-01-08 17:57:25,926 - my - DEBUG - ajax_del 진입
+2021-01-08 17:57:26,801 - my - DEBUG - db 진입
+2021-01-08 17:57:26,803 - my - DEBUG - db 실행
+2021-01-08 17:57:26,804 - my - DEBUG - db 실행 종료
+2021-01-08 17:57:26,804 - my - DEBUG - db 값 return
